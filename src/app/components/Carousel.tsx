@@ -11,7 +11,7 @@ const contentStyle: React.CSSProperties = {
 
 const ImageCarousel: React.FC = () => (
   <Carousel >
-    <div className='flex text-center content-center'>
+    <div className='flex text-center'>
         <Image src="https://images.pistonheads.com/nimg/44424/10.jpg" alt='Ford escort' width={300}/>
     </div>
     <div>
