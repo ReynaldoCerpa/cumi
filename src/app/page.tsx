@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="">
       <h1 className='font-primary'>Centro CUMI</h1>
-      <h1>Cambia tu vida</h1>
+      <h1>Cambia tu vida!</h1>
       <ImageCarousel/>
       <h1>Ubicación</h1>
       <iframe className='w-full h-[20rem]' src="https://api.maptiler.com/maps/bc478a6d-51e0-4683-86fc-27783d7449bf/?key=XLXPLL3t79q0fP86Asz0#13/31.868092/-116.64881"></iframe>
