@@ -13,7 +13,12 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       fontFamily: {
-        'primary': ['Questrial']
+        'primary': ['Lexend'],
+        'secondary': ['Roboto']
+      },
+      colors: {
+        primary: '#0d3552',
+        secondary: '#9db3bf'
       }
     },
   },
